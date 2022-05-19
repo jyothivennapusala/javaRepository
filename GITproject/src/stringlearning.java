@@ -3,5 +3,6 @@ public class stringlearning {
 		String a="java";
 		String b="Programming";
 		System.out.println(a+"    "+b);
+		System.out.println(a+"    "+b);
 	}
 }
