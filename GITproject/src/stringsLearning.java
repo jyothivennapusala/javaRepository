@@ -7,5 +7,6 @@ public class stringsLearning {
 		String c=a.concat(b);
 		System.out.println(c);
 		System.out.println(a+b);
+		System.out.println(a+b);
 }
 }
